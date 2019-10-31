@@ -1,6 +1,6 @@
 {
   "name": "use-mq",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "matchMedia React hook",
   "repository": "https://github.com/bigslycat/use-mq",
   "author": "Pavel Tereschenko <me@stupidcat.wtf> (https://github.com/bigslycat)",
