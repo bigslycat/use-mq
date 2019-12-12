@@ -25,7 +25,7 @@
     }
   },
   "dependencies": {
-    "core-js": "^3.3.6"
+    "core-js": "^3.5.0"
   },
   "peerDependencies": {
     "react": "^16.8.0"
